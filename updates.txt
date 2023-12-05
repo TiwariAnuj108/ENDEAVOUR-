@@ -1,0 +1,7 @@
+.                                       ENDEAVOUR                                                    
+.                                Version Control System    
+
+In the session of version control system we taught about git and github.
+Functions of git, what is local repository and remote repository.
+Local repository means the code which is in your lapyop and PC.
+Remote repository means the code which is saved on Github.
